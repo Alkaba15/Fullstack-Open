@@ -1,108 +1,81 @@
-# Fullstack-Open
-# 🚀 Full Stack Open - Web Development Portfolio
+# Full Stack Open — University of Helsinki
 
-This repository contains my complete solutions and projects from the **Full Stack Open** course by the University of Helsinki.
-
-The course focuses on modern full-stack web development using:
-- React (frontend)
-- Node.js & Express (backend)
-- MongoDB (database)
-- REST APIs and authentication
-- State management and application architecture
+[![Course](https://img.shields.io/badge/University%20of%20Helsinki-Full%20Stack%20Open-blue?style=flat-square)](https://fullstackopen.com/en/)
+[![Progress](https://img.shields.io/badge/Progress-Part%201%20Completed-brightgreen?style=flat-square)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Alkaba15-181717?style=flat-square&logo=github)](https://github.com/Alkaba15)
 
 ---
 
-## 🎯 Purpose of this repository
+## What this is
 
-This repository is not just a collection of exercises. It is a structured learning journey where I progressively build:
+This repository documents my progression through **Full Stack Open** — one of the most rigorous free courses in web development, built and maintained by the University of Helsinki. The curriculum covers the full modern stack: React, Node.js, Express, MongoDB, GraphQL, testing, authentication, and DevOps fundamentals.
 
-- Real-world frontend applications with React
-- Backend APIs with Node.js and Express
-- Full-stack applications with authentication and database integration
-- Clean and scalable project architecture
-
-The goal is to develop strong software engineering fundamentals and practical full-stack development skills.
+This is not a solutions dump. Every exercise here was written with intent — understanding the *why* before the *how*.
 
 ---
 
-## 🧠 Skills being developed
+## Stack covered
 
-### Frontend
-- React components and props
-- State management
-- Event handling
-- Component design patterns
-
-### Backend
-- REST API design
-- Express.js server development
-- Middleware usage
-- Database integration (MongoDB)
-
-### Software Engineering
-- Clean code principles
-- Modular architecture
-- Separation of concerns
-- Git version control
+| Domain | Technologies |
+|---|---|
+| Frontend | React, JavaScript ES6+, Hooks, State management |
+| Backend | Node.js, Express, REST, GraphQL |
+| Database | MongoDB, Mongoose |
+| Testing | Jest, Cypress, React Testing Library |
+| DevOps | CI/CD basics, Docker (upcoming) |
+| Auth | JWT, bcrypt, session management |
 
 ---
 
-## 📁 Repository structure
+## Repository structure
+
+```
 fullstack-open/
-├── part0/ # Fundamentals of Web applications
-├── part1/ # Introduction to React
-├── part2/ # Communicating with server
-├── part3/ # Backend development with Node.js & Express
-├── part4/ # Testing and authentication
-├── part5/ # Frontend testing and advanced React
-├── part6/ # State management (Redux)
-├── part7/ # React router and custom hooks
-├── part8/ # GraphQL
-
-
-Each folder contains independent exercises and mini-projects.
+├── part0/    # Web fundamentals — HTTP, browser rendering, SPA vs MPA
+├── part1/    # React core — components, props, state, hooks ✅
+├── part2/    # Server communication — fetch, axios, REST consumption
+├── part3/    # Node.js & Express — building REST APIs from scratch
+├── part4/    # Backend testing & JWT authentication
+├── part5/    # Frontend testing — React Testing Library, Cypress E2E
+├── part6/    # State management — Redux, Redux Toolkit, React Query
+├── part7/    # React Router, custom hooks, advanced patterns
+└── part8/    # GraphQL — schemas, resolvers, Apollo
+```
 
 ---
 
-## 📈 Progress
+## Progress
 
-- ✔ Part 0 - Completed
-- ✔ Part 1 - In progress / completed
-- ⏳ Part 2 - Upcoming
-- ⏳ Part 3 - Upcoming
-
-(Progress updated as I advance through the course)
-
----
-
-## ⚙️ Tech stack
-
-- React
-- Node.js
-- Express
-- MongoDB
-- JavaScript (ES6+)
-- Git & GitHub
+| Part | Topic | Status |
+|---|---|---|
+| Part 0 | Fundamentals of Web applications | ✅ Completed |
+| Part 1 | Introduction to React | ✅ Completed |
+| Part 2 | Communicating with server | 🔄 In progress |
+| Part 3 | Node.js & Express | ⏳ Upcoming |
+| Part 4 | Testing & Authentication | ⏳ Upcoming |
+| Part 5 | Frontend testing | ⏳ Upcoming |
+| Part 6 | State management (Redux) | ⏳ Upcoming |
+| Part 7 | React Router & custom hooks | ⏳ Upcoming |
+| Part 8 | GraphQL | ⏳ Upcoming |
 
 ---
 
-## 🧭 Learning approach
+## How I work through this
 
-I focus on:
-- Understanding concepts deeply before implementation
-- Writing clean and readable code
-- Building step by step instead of copying solutions
-- Reinforcing fundamentals through repetition and practice
+Most courses teach you to follow instructions. This one doesn't hold your hand — and that's the point.
 
----
-
-## 📌 Notes
-
-This repository is part of my journey to become a full-stack developer capable of building production-ready applications.
+My approach:
+- **Read the problem. Close the docs. Build it.** Only reference when genuinely stuck.
+- **No copy-paste.** Every line is typed and understood.
+- **Struggle productively.** If something takes 3 hours, that's 3 hours of real learning.
+- **Review and refactor.** After each part, I revisit earlier code with fresh eyes.
 
 ---
 
-## 👨‍💻 Author
+## About me
 
-Self-taught full-stack development learner  
-Focused on building strong engineering fundamentals and real-world projects
+I'm a software development graduate from CCNB (New Brunswick, Canada) building a strong foundation in full-stack engineering. My focus is on writing code that is readable, maintainable, and built to last — not just code that works.
+
+I'm working toward roles where engineering quality and product thinking matter.
+
+📬 [github.com/Alkaba15](https://github.com/Alkaba15)
